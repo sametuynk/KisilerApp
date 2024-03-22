@@ -9,3 +9,5 @@ Ardından, ViewModel, LiveData ve Repository kullanılarak MVVM mimarisi gelişt
 Hilt, bağımlılık enjeksiyonunu kolaylaştıran bir kütüphanedir ve bu uygulamada kullanılmıştır. Hilt, uygulamanın farklı bileşenlerini bağımlılıklardan ayırarak kodun daha temiz ve bakımı kolay hale gelmesini sağlar.
 
 Son olarak, Room kütüphanesi veritabanı işlemleri için kullanılmıştır. Room, yerel veritabanıyla etkileşim sağlar ve veri depolama işlemlerini kolaylaştırır.
+
+Bu yapılar uygulama geliştirilirken uygulanmıştır.
